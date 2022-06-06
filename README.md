@@ -1,24 +1,24 @@
 # Proyecto-Colaborativo-2022
 Equipo integrado por :
 
-Agus espinosa
+*Agus espinosa
 
-Barby gomez
+*Barby gomez
 
-Diego gimenez
+*Diego gimenez
 
-Facundo Gimenez
+*Facundo Gimenez
  
-Gina
+*Gina
 
-Mariela Gomez 
+*Mariela Gomez 
 
-Melisa Gimenez
+*Melisa Gimenez
 
-Natalia Ruiz
+*Natalia Ruiz
 
-Yesica gomez
+*Yesica gomez
 
-Yonatan Espinoza 
+*Yonatan Espinoza 
 
 
