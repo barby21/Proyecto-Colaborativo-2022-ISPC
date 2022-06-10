@@ -9,7 +9,7 @@ Equipo integrado por :
 
 *Facundo Gimenez
  
-*Gina
+*Gina Gomez
 
 *Mariela Gomez 
 
